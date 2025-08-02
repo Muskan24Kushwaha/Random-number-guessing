@@ -1,11 +1,11 @@
-# 🎯 Random Number Guessing Game
+# Random Number Guessing Game
 
 A simple Python program where the computer randomly selects a number between **1 and 100**, and the user tries to guess it.  
 The game provides hints if the guess is **high** or **low** until the user correctly guesses the number.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Generates a random number between **1 and 100**.
 - Accepts user input to guess the number.
@@ -25,7 +25,7 @@ The game provides hints if the guess is **high** or **low** until the user corre
 3. Open a terminal or command prompt in the script directory.
 4. Run the program using:
 
-```bash
+```
 python random_number_game.py
 
 🥳Welcome to the Random Number Guessing Game!🥳
@@ -41,10 +41,12 @@ Congratulations!🎊🎉 You guessed the correct number.🥳👏🏻
 
 🙏🏻Thanks for playing the Random Number Guessing Game!🙇🏻‍♀️
 
+```
+---
 ## License
 
 This project is open source and free to use for educational or personal projects.
 
 ---
 
-Enjoying!
+Enjoy!🥳🥳
