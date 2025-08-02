@@ -18,7 +18,7 @@ The game provides hints if the guess is **high** or **low** until the user corre
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 1. Make sure **Python 3.x** is installed on your system.
 2. Save the code as `random_number_game.py`.
